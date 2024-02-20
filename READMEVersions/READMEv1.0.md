@@ -1,4 +1,6 @@
-# ECOWind (v2.0) 
+ 
+
+# ECOWind (v1.0) 
 
   
 
@@ -6,11 +8,15 @@
 
   
 
-Bienvenido a ECOWind, la aplicación que proporciona una visualización única de un campo eólico. Esta aplicación está diseñada para ejecutarse en computadoras, brindando a los usuarios la oportunidad de explorar el entorno desde tres perspectivas distintas. Además, permite modificar las condiciones climáticas entre despejado, lluvioso y tormentoso, así como experimentar con la transición entre el día y la noche. En la segunda versión de la aplicación, hemos incorporado mejoras gráficas significativas para ofrecer una experiencia visual aún más inmersiva y detallada del campo eólico
+Bienvenido al primer prototipo de ECOWind, la aplicación que proporciona una visualización única de un campo eólico. Este prototipo inicial está diseñado para ejecutarse en computadoras, brindando a los usuarios la oportunidad de explorar el entorno desde tres perspectivas distintas. Además, permite modificar las condiciones climáticas entre despejado, lluvioso y tormentoso, así como experimentar con la transición entre el día y la noche. 
 
   
 
-Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se centrarán en la implementación de ECOWind en realidad virtual. Esta evolución permitirá a los usuarios sumergirse aún más en la experiencia, llevando la visualización del campo eólico a nuevos niveles de realismo y participación. 
+Este prototipo inicial sienta las bases para futuras iteraciones del proyecto, que se centrarán en la implementación de ECOWind en realidad virtual. Esta evolución permitirá a los usuarios sumergirse aún más en la experiencia, llevando la visualización del campo eólico a nuevos niveles de realismo y participación. 
+
+  
+
+**Trailer:** [Enlace al Trailer](https://tipcooperativa-my.sharepoint.com/personal/jairo_martinez_tipcolombia_com/_layouts/15/onedrive.aspx?FolderCTID=0x012000012B4737572C1946840027ECE287726C&id=%2Fpersonal%2Fjairo%5Fmartinez%5Ftipcolombia%5Fcom%2FDocuments%2FPROYECTO%20ARC%2D%20ECOPETROL%2FAvance%20t%C3%A9cnico%2F4%2E%20Desarrollo%20prototipo%201%20preliminar%2FDise%C3%B1o%2FTrailer) 
 
   
 
@@ -22,7 +28,7 @@ Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se 
 
   
 
-![Menu inicial](https://media.giphy.com/media/dt0KdRvM6hJmGEKRDy/giphy.gif) 
+![Menu inicial](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEyc2ZiNHM2eXhhNG9oNXQ2b21nM2hpZjVyb3BwM2FwOXFlaTQ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imXK9zd68LjytBqu21/giphy.gif) 
 
   
 
@@ -34,7 +40,7 @@ Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se 
 
   
 
-![Vista playa](https://media.giphy.com/media/nAaLqXQUmoTImkeCKy/giphy.gif) 
+![Vista playa](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwyc25ya3E2bnB6eGRoZXRseHJieHVvNjlvYjcxcWw5NW55dTRpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8tSBJlGp0jnp84PoBx/giphy.gif) 
 
   
 
@@ -42,7 +48,7 @@ Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se 
 
   
 
-![Vista generador](https://media.giphy.com/media/BpQBNc4RWJxKdEzEzx/giphy.gif) 
+![Vista generador](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5uMWM0Ym1vcmZoejIxbWdrYjNzZjI1ZXZ0dzB1OWF2aXJvaDJreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uyKYwFIrtMF20PNHB5/giphy.gif) 
 
   
 
@@ -50,7 +56,7 @@ Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se 
 
   
 
-![Vista barco](https://media.giphy.com/media/dRi3atJ87me1PfvstV/giphy.gif) 
+![Vista barco](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc5Y2M5Nzd3eTFqOWs0cXk3aXBmOG45aW0wOXJsMmZ1d291eGFuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kWENVrdYjqlqTvkQlj/giphy.gif) 
 
   
 
@@ -70,7 +76,7 @@ Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se 
 
   
 
-![Cambio clima](https://media.giphy.com/media/7Im3Qh9m4Hr2z3fah0/giphy.gif) 
+![Cambio clima](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc2OWtmbDVjbGh4bzlqZDRtdW9zbGszeWJ6YWRlZTY3ZWg0OGl5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GfmvjR9j4shozJCGwy/giphy.gif) 
 
   
 
@@ -78,7 +84,7 @@ Esta aplicación sienta las bases para futuras iteraciones del proyecto, que se 
 
   
 
-![Cambio diaNoche](https://media.giphy.com/media/VzewlrT0PXR5BD7n1t/giphy.gif) 
+![Cambio diaNoche](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhzdWxxcnZkbHI0dTNuMXJ2NWh6OHhvbTljNHh3ZXE2YnRkMGhlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHNmEp6DY0YAxGR2sv/giphy.gif) 
 
   
 
@@ -96,10 +102,11 @@ Computadores con sistema operativo Windows (PC)
 
 | Nombre | Versión | Link de Descarga | Funcionalidad | 
 | ------------- | ----------------- | ---------------------------------| -------------------------- | 
-| Unity | 2023.1.1f1 | [Unity 2023.1.1f1](https://unity.com/releases/editor/whats-new/2023.1.1) | Motor de desarrollo de juegos.| 
+| Unity | 2022.3.10f1 | [Unity 2022.3.10f1](https://download.unity3d.com/download_unity/ff3792e53c62/Windows64EditorInstaller/UnitySetup64-2022.3.10f1.exe) | Motor de desarrollo de juegos.| 
 | Oculus Integration | 57.0.1 | [Oculus Integration 57.0.1](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022) | Facilita la integración de aplicaciones con dispositivos Oculus, como el Quest, mejorando la experiencia de usuario y ofreciendo herramientas específicas para la realidad virtual. | 
-High Definition RP | 15.0.6 | [High Definition RP  15.0.6](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/manual/index.html)| Sistema de renderizado de alta fidelidad creado por Unity, diseñado para dirigirse a plataformas modernas compatibles con Compute Shader.| 
+Universal RP | 14.0.8 | [Universal RP 14.0.8](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html)| Sistema de renderizado para mejorar gráficos en tiempo real en aplicaciones y juegos.| 
 XR Plugin Management | 4.4.0 | [XR Plugin Management 4.4.0](https://docs.unity3d.com/Packages/com.unity.xr.management@4.4/manual/index.html) | Paquete que ofrece una gestión sencilla de los complementos de XR. Administra y brinda asistencia con la carga, inicialización, configuraciones y soporte de construcción para los complementos de XR. | 
+Boat Attack Water System | 1.4.0 | [Boat Attack Water System 1.4.0](https://github.com/Unity-Technologies/boat-attack-water/tree/main)| Paquete personalizado de un sistema de agua para URP. | 
 Unity Hub | 3.6.1 |[Unity Hub 3.6.1](https://unity.com/unity-hub/release-notes#361)|Administrador centralizado que facilita el acceso y la gestión de proyectos en Unity, además de proporcionar herramientas para la instalación y administración de versiones del motor Unity. 
 
   
@@ -116,13 +123,18 @@ Este proyecto utiliza diversas tecnologías y recursos, cada uno con sus propias
 
   
 
-- [High Definition RP ](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/license/LICENSE.html) 
+- [Universal RP ](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/license/LICENSE.html) 
 
   
 
 - [XR Plugin Management](https://docs.unity3d.com/Packages/com.unity.xr.management@4.4/license/LICENSE.html) 
 
   
+
+- [Boat Attack Water System](https://github.com/Unity-Technologies/boat-attack-water/blob/main/LICENSE.md) 
+
+  
+
 Recuerda revisar y cumplir con las condiciones de cada licencia antes de utilizar o distribuir este software. 
 
   
@@ -189,7 +201,7 @@ En el [Enlace al Ejecutable](https://tipcooperativa-my.sharepoint.com/:u:/g/pers
 
   
 
-Esta aplicación sienta las bases para una aplicación en realidad virtual, que permitirá: 
+Este primer prototipo sienta las bases para una aplicación en realidad virtual, que permitirá: 
 
   
 
@@ -201,8 +213,12 @@ Esta aplicación sienta las bases para una aplicación en realidad virtual, que 
 
   
 
+- Visualizar gráficos más realistas, centrados en una buena experiencia de usuario sin dejar de lado el desempeño del aplicativo. 
+
+  
+
 -  Navegación en una embarcación especifica, para recorrer el campo eólico desde el agua. 
 
   
 
-¡Gracias por probar ECOWind! Esperamos tus comentarios y sugerencias para futuras mejoras aquí https://forms.office.com/r/9ATkJsA7rJ 
+¡Gracias por probar ECOWind! Esperamos tus comentarios y sugerencias para futuras mejoras aquí https://forms.office.com/r/9ATkJsA7rJ  
