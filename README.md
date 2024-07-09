@@ -145,7 +145,7 @@ En el [Enlace al Ejecutable](https://tipcooperativa-my.sharepoint.com/:u:/g/pers
 
   
 
-1. Descarga el ejecutable desde [aquí](https://tipcooperativa-my.sharepoint.com/personal/jairo_martinez_tipcolombia_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjairo%5Fmartinez%5Ftipcolombia%5Fcom%2FDocuments%2FPROYECTO%20ARC%2D%20ECOPETROL%2FAvance%20t%C3%A9cnico%2FAvance%2022%20ENE%20%2D22%20FEB%202024%2FEjecutable&view=0). 
+1. Descarga el ejecutable desde [aquí](https://tipcooperativa-my.sharepoint.com/:u:/g/personal/jairo_martinez_tipcolombia_com/EX45MeBExohPm1j-_Y7erSEBuXSuBXEGn_cdeJuo_-vRQQ?e=ZYWhLZ). 
 
   
 
